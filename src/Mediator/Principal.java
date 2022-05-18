@@ -11,6 +11,6 @@ public class Principal {
         mediator.setColleague2(colleague2);
 
         colleague1.send("Hola, ¿Qué tal?");
-        colleague2.send("Bien, gracias");
+        colleague2.send("Bien, ¡gracias!");
     }
 }
